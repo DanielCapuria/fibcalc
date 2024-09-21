@@ -1,0 +1,14 @@
+C:\MSSA\code\fibcalc\fibcalc\bin\Debug\net8.0\fibcalc.exe
+C:\MSSA\code\fibcalc\fibcalc\bin\Debug\net8.0\fibcalc.deps.json
+C:\MSSA\code\fibcalc\fibcalc\bin\Debug\net8.0\fibcalc.runtimeconfig.json
+C:\MSSA\code\fibcalc\fibcalc\bin\Debug\net8.0\fibcalc.dll
+C:\MSSA\code\fibcalc\fibcalc\bin\Debug\net8.0\fibcalc.pdb
+C:\MSSA\code\fibcalc\fibcalc\obj\Debug\net8.0\fibcalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSSA\code\fibcalc\fibcalc\obj\Debug\net8.0\fibcalc.AssemblyInfoInputs.cache
+C:\MSSA\code\fibcalc\fibcalc\obj\Debug\net8.0\fibcalc.AssemblyInfo.cs
+C:\MSSA\code\fibcalc\fibcalc\obj\Debug\net8.0\fibcalc.csproj.CoreCompileInputs.cache
+C:\MSSA\code\fibcalc\fibcalc\obj\Debug\net8.0\fibcalc.dll
+C:\MSSA\code\fibcalc\fibcalc\obj\Debug\net8.0\refint\fibcalc.dll
+C:\MSSA\code\fibcalc\fibcalc\obj\Debug\net8.0\fibcalc.pdb
+C:\MSSA\code\fibcalc\fibcalc\obj\Debug\net8.0\fibcalc.genruntimeconfig.cache
+C:\MSSA\code\fibcalc\fibcalc\obj\Debug\net8.0\ref\fibcalc.dll
