@@ -12,3 +12,4 @@ C:\MSSA\code\fibcalc\fibcalc\obj\Debug\net8.0\refint\fibcalc.dll
 C:\MSSA\code\fibcalc\fibcalc\obj\Debug\net8.0\fibcalc.pdb
 C:\MSSA\code\fibcalc\fibcalc\obj\Debug\net8.0\fibcalc.genruntimeconfig.cache
 C:\MSSA\code\fibcalc\fibcalc\obj\Debug\net8.0\ref\fibcalc.dll
+C:\MSSA\code\fibcalc\fibcalc\obj\Debug\net8.0\fibcalc.sourcelink.json
